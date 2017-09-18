@@ -1,2 +1,2 @@
-# ProgrammingExercise
+# Programming Exercise
 
